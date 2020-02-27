@@ -1,0 +1,7 @@
+c:\users\hakan\documents\visual studio 2012\Projects\Project-ATM\Project-ATM\obj\Debug\Project-ATM.csprojResolveAssemblyReference.cache
+c:\users\hakan\documents\visual studio 2012\Projects\Project-ATM\Project-ATM\bin\Debug\Project-ATM.exe
+c:\users\hakan\documents\visual studio 2012\Projects\Project-ATM\Project-ATM\bin\Debug\Project-ATM.pdb
+c:\users\hakan\documents\visual studio 2012\Projects\Project-ATM\Project-ATM\obj\Debug\Project-ATM.exe
+c:\users\hakan\documents\visual studio 2012\Projects\Project-ATM\Project-ATM\obj\Debug\Project-ATM.pdb
+C:\Users\HAKAN\Documents\Visual Studio 2015\Visual Studio 2012\Projects\Project-ATM\Project-ATM\obj\Debug\Project-ATM.exe
+C:\Users\HAKAN\Documents\Visual Studio 2015\Visual Studio 2012\Projects\Project-ATM\Project-ATM\obj\Debug\Project-ATM.pdb
